@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="py-4 w-full mx-0 my-auto flex justify-between items-center">
+    <header className="py-6 w-full mx-0 my-auto flex justify-between items-center">
       <span className="font-prompt text-white text-3xl">MXFin</span>
 
       <nav className="text-white text-lg font-prompt desktopNav">
